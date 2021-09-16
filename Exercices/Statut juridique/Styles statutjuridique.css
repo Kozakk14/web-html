@@ -1,0 +1,12 @@
+#all{
+	margin: auto;
+	text-align: center;
+	width: 1500px;
+}
+#tableau th,td,#tableau{
+	border: solid;
+	border-width: 0.2px;
+	border-spacing: 0px;
+	border-color: lightgrey;
+	border-inline-color: grey;
+}
