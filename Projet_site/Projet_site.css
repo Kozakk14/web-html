@@ -1,5 +1,11 @@
-body{
-    color-font : grey;
+body0 {
+    background-color: grey;
+    color: black;
+}
+
+body1{
+    background-color : white;
+    color : black;
     margin: auto;
     text-align: center;
     width: 1300px;
