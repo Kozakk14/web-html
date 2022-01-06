@@ -1,0 +1,32 @@
+body{
+	margin: auto;
+	text-align: center;
+	width: 1300px;
+	font-family: montserrat,sans-serif;
+}
+
+html {font-family: 'Open Sans', sans-serif}
+header{
+	background: url("about-us/header-bg.jpg");
+	background-attachment: fixed;
+	background-position: top;
+	background-position: 0px 90px;
+	background-size: auto;
+}
+i{size : 30px ; margin: inherit ;position: static;text-align: right;color: white}
+.menu{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+#onglets li {margin: 20px 20px;color: white;}
+a {color: white}
+h1 {margin-top: 30px;
+  margin-bottom: 30px;
+ }
+p {color:  grey; margin-top: 15px}
+#onglets li.active
+{border-bottom: 2px solid #none;
+background-color: pink;}
+#onglets a:hover
+{background : #00008B;size : 40px}
