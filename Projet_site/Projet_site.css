@@ -1,9 +1,13 @@
-.body0 {
+.body1 {
     background-color: grey;
     color: black;
+	margin: auto;
+	text-align: end;
+	width: 1300px;
+	font-family: montserrat,sans-serif;
 }
 
-.body1 {
+.body2 {
     background-color : white;
     color : black;
     margin: auto;
