@@ -1,17 +1,21 @@
-href="body1" {
+.bandeau {
     background-color: grey;
     color: black;
 	margin: auto;
-	text-align: end;
+	text-align: center;
 	width: 1300px;
 	font-family: montserrat,sans-serif;
 }
 
-href="texte" {
-    background-color : white;
-    color : black;
+.body {
+    background-color : black;
+    color : white;
     margin: auto;
     text-align: center;
     width: 1300px;
     font-family: montserrat,sans-serif;
+}
+
+.lien {
+	color : white;
 }
